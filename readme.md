@@ -1,3 +1,3 @@
 To-Do: Readme
 
-No olvidarse de archivo .env!!!
+Por motivos de seguridad no se provee el archivo .env, solicitarlo a dranthos@gmail.com en caso de necesitarlo
