@@ -1,0 +1,18 @@
+h4 {
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+h5 {
+    display: inline;
+    padding-left: 30px;
+}
+
+p {
+    text-indent: 30px;
+}
+
+.item-title {
+    font-size: 15px;
+    font-weight: bold;
+}
